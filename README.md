@@ -17,17 +17,15 @@ Install dependencies
 ```bash
   npm install
 
-  OR 
+  OR
 
   npm install react-material-ui-carousel --save --legacy-peer-deps
 ```
+
 Run the project
 
 ```bash
   npm start
 ```
 
-
-# frontend-takehome
-# frontend-takehome
 # frontend-takehome
